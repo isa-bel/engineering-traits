@@ -27,3 +27,9 @@ We identified them through a series of interviews with engineers and other deliv
 * [Writing User Stories](writing-user-stories.md)
 * [Writing](writing.md)
 * [Misc](xmisc.md)
+
+## To Do
+
+- [ ] Finish definition of traits
+- [ ] Prioritize traits
+- [ ] For each trait, complete description
