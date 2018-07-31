@@ -7,10 +7,10 @@ This document lists the traits or skills software engineers at Wizeline must dev
 We identified them through a series of interviews with engineers and other delivery roles.
 
 * [Agile Development](agile.md)
-* [Best Practices](best-practices.md)
 * [Code Reviews](code-reviews.md)
 * [Communication with Stakeholders](communication-with-stakeholders.md)
 * [Daily Standup](standup.md)
+* [Development Best Practices](best-practices.md)
 * [Documentation](documentation.md)
 * [Emotional Intelligence](emotional-intelligence.md)
 * [Estimations](estimations.md)
@@ -28,7 +28,6 @@ We identified them through a series of interviews with engineers and other deliv
 * [Working with a Team](working-with-a-team.md)
 * [Writing User Stories](writing-user-stories.md)
 * [Writing](writing.md)
-* [Misc](xmisc.md)
 
 ## To Do
 

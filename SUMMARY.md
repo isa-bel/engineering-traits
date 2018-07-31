@@ -1,10 +1,10 @@
 # Table of Contents
 
 * [Agile Development](agile.md)
-* [Best Practices](best-practices.md)
 * [Code Reviews](code-reviews.md)
 * [Communication with Stakeholders](communication-with-stakeholders.md)
 * [Daily Standup](standup.md)
+* [Development Best Practices](best-practices.md)
 * [Documentation](documentation.md)
 * [Emotional Intelligence](emotional-intelligence.md)
 * [Estimations](estimations.md)
