@@ -1,5 +1,7 @@
 # Engineering Traits
 
+_Draft_
+
 This document lists the traits or skills software engineers at Wizeline must develop to be successful.
 
 We identified them through a series of interviews with engineers and other delivery roles.
