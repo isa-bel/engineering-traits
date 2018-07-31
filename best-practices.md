@@ -1,4 +1,4 @@
-# Best Practices
+# Development Best Practices
 
 * Applies Clean Code practices.
 * Knows and follows up best practices and guidelines.

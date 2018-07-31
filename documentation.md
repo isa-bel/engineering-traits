@@ -5,6 +5,7 @@
 * Documents the onboarding process.
 * Is focused in documentation.
 * Has ownership of the code, including the documentation.
+* Adds guidelines after failures.
 
 ## Related Topics
 

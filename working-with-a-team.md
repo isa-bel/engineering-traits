@@ -27,6 +27,7 @@ _Internal Communication_
 
 * [Other Team Roles](/other-team-roles.md)
 * [Code Reviews](/code-reviews.md)
+* [Standup](/standup.md)
 
 ## References
 

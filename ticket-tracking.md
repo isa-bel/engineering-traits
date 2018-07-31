@@ -11,5 +11,6 @@ _If it's not in Jira, it doesn't exist!_
 ## Related Topics
 
 * [Communication with Stakeholders](/communication-with-stakeholders.md)
+* [Testing](/testing.md)
 
 ## References
