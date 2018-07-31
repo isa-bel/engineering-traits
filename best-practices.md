@@ -10,14 +10,16 @@
 * Understands and applies the client standards and best practices.
 * Creates clear architecture diagrams (UML).
 * Knows basic architecture and security concepts.
-* Cares about the future developers.
-* Thinks about code maintainability. Writes code that is easy to test, to change, and to understand a year after.
-* Writes clean reusable code. Assumes someone else is going to use it.
-* Knows how and when to do refactors.
 
 ## Refactoring
 
 * Knows how and when to do refactors.
+
+## Maintainability
+
+* Cares about the future developers.
+* Thinks about code maintainability. Writes code that is easy to test, to change, and to understand a year after.
+* Writes clean reusable code. Assumes someone else is going to use it.
 
 ## Related Topics
 

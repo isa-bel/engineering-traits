@@ -12,7 +12,6 @@
 * [Giving Presentations](giving-presentations.md)
 * [Learn](learn.md)
 * [Other Team Roles](other-team-roles.md)
-* [Requirements Negotiation](negotiation.md)
 * [Running Environment](running-environment.md)
 * [Solve Problems](solve-problems.md)
 * [Testing](testing.md)

@@ -8,3 +8,5 @@
 * [Code Reviews](/code-reviews.md)
 
 ## References
+
+* [5 Tips for Gracefully Accepting Constructive Criticism](https://www.entrepreneur.com/article/250304)

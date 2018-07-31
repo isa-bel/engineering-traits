@@ -9,6 +9,6 @@
 
 ## Related Topics
 
-* [Best Practices](/best-practices.md)
+* [Development Best Practices](/best-practices.md)
 
 ## References
