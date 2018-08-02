@@ -28,5 +28,5 @@
 
 ## References
 
-* [A guide to unit testing in JavaScrip](https://github.com/mawrkus/js-unit-testing-guide)
-* [5 Tips for Writing Great Javascript Unit Tests](https://medium.com/@yahelyechieli/5-tips-for-writing-great-javascript-unit-tests-86296ad2d997)
+* :memo: [A guide to unit testing in JavaScrip](https://github.com/mawrkus/js-unit-testing-guide)
+* :memo: [5 Tips for Writing Great Javascript Unit Tests](https://medium.com/@yahelyechieli/5-tips-for-writing-great-javascript-unit-tests-86296ad2d997)

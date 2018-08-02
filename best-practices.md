@@ -28,5 +28,5 @@
 
 ## References
 
-* [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22)
-* [The Lava Layer Anti-Pattern](https://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html)
+* :memo: [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22)
+* :memo: [The Lava Layer Anti-Pattern](https://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html)

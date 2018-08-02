@@ -13,4 +13,4 @@
 
 ## References
 
-* :o::memo: [Documenting Steps](https://docs.google.com/document/d/1PIhxgbyeMtGX_x0z2TgyrsF41KIUjJelcGHLdk9d95g/edit)
+* :lock::memo: [Documenting Steps](https://docs.google.com/document/d/1PIhxgbyeMtGX_x0z2TgyrsF41KIUjJelcGHLdk9d95g/edit)
