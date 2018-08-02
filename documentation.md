@@ -12,3 +12,5 @@
 * [Development Best Practices](/best-practices.md)
 
 ## References
+
+* :o::memo: [Documenting Steps](https://docs.google.com/document/d/1PIhxgbyeMtGX_x0z2TgyrsF41KIUjJelcGHLdk9d95g/edit)
