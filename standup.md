@@ -7,7 +7,6 @@ Daily standups are part of the [Agile Manifesto Principles](http://agilemanifest
 * Gives clear standup updates that communicate what are you doing.
 * Translates technical details into to day to day words.
 * Joins the standups on time.
-* Prioritizes the daily standups. The daily communication with the client is more important than running morning errands.
 * Tailors their communication to their audience level of technicality and needs.
 
 In the standup:
@@ -21,5 +20,6 @@ In the standup:
 
 * [Communication with Stakeholders](/communication-with-stakeholders.md)
 * [Agile Development](/agile.md)
+* [Working with a Team](/working-with-a-team.md)
 
 ## References

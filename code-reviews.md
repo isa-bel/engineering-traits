@@ -24,8 +24,10 @@
 
 * [Feedback](/feedback.md)
 * [Working with a Team](/working-with-a-team.md)
-* [Best Practices](/best-practices.md)
+* [Development Best Practices](/best-practices.md)
 
 ## References
 
-* [The (written) unwritten guide to pull requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)
+* :memo: [The (written) unwritten guide to pull requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)
+* :memo: [Better GitHub pull requests ~!](https://medium.com/arnoldclarkdpd/better-github-pull-requests-625dd71e0bea)
+* :memo: [Unlearning toxic behaviors in a code review culture](https://medium.freecodecamp.org/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)

@@ -7,6 +7,6 @@
 ## Related Topics
 
 * [Agile Development](/agile.md)
-* [Requirements Negotiation](/negotiation.md)
+* [Requirements Negotiation](/communication-with-stakeholders.md#requirements-negotiation)
 
 ## References

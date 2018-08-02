@@ -1,10 +1,10 @@
 # Table of Contents
 
 * [Agile Development](agile.md)
-* [Best Practices](best-practices.md)
 * [Code Reviews](code-reviews.md)
 * [Communication with Stakeholders](communication-with-stakeholders.md)
 * [Daily Standup](standup.md)
+* [Development Best Practices](best-practices.md)
 * [Documentation](documentation.md)
 * [Emotional Intelligence](emotional-intelligence.md)
 * [Estimations](estimations.md)
@@ -12,7 +12,6 @@
 * [Giving Presentations](giving-presentations.md)
 * [Learn](learn.md)
 * [Other Team Roles](other-team-roles.md)
-* [Requirements Negotiation](negotiation.md)
 * [Running Environment](running-environment.md)
 * [Solve Problems](solve-problems.md)
 * [Testing](testing.md)
