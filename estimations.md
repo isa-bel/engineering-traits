@@ -6,7 +6,7 @@
 * Knows how to do stories estimation following the Agile process.
 * Uses planning poker to do estimations.
 
-## Related Topics
+## Related Traits
 
 * [Agile Development](/agile.md)
 

@@ -16,7 +16,7 @@ In the standup:
 - Shares knowledge to help your daily job.
 - How can we adapt it so that it is valuable for our team? Why is it helpful?
 
-## Related Topics
+## Related Traits
 
 * [Communication with Stakeholders](/communication-with-stakeholders.md)
 * [Agile Development](/agile.md)

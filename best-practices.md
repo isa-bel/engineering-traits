@@ -8,6 +8,10 @@
 * Thinks before coding.
 * Analyzes design decisions based on facts and avoids hype driven development.
 * Understands and applies the client standards and best practices.
+* Has an automation-first mentality. Uses automation to increase their productivity.
+
+## Architecture
+
 * Creates clear architecture diagrams (UML).
 * Knows basic architecture and security concepts.
 
@@ -21,10 +25,11 @@
 * Thinks about code maintainability. Writes code that is easy to test, to change, and to understand a year after.
 * Writes clean reusable code. Assumes someone else is going to use it.
 
-## Related Topics
+## Related Traits
 
 * [Code Reviews](/code-reviews.md)
 * [Documentation](/documentation.md)
+* [Testing](/testing.md)
 
 ## References
 

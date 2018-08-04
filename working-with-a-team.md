@@ -25,7 +25,7 @@ _Internal Communication_
 * Knows when to ask for help.
 * Knows who can help them and seeks help fast.
 
-## Related Topics
+## Related Traits
 
 * [Other Team Roles](/other-team-roles.md)
 * [Code Reviews](/code-reviews.md)

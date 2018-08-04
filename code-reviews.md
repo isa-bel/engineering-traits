@@ -20,7 +20,7 @@
 * Give constructive feedback in code reviews or directly to other team members.
 * Add enough context or related code examples in the PR comments.
 
-## Related Topics
+## Related Traits
 
 * [Feedback](/feedback.md)
 * [Working with a Team](/working-with-a-team.md)

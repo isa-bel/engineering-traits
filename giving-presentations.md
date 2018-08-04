@@ -4,7 +4,7 @@
 * Does demo dry runs.
 * When giving demos, practices them, validates them, and knows how to react to failure.
 
-## Related Topics
+## Related Traits
 
 * [Communication with Stakeholders](/communication-with-stakeholders.md)
 

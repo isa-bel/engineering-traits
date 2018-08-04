@@ -6,7 +6,10 @@
 * Focuses in the problem and not the solution only. Avoids focusing too much in the how.
 * Understands the problem they are solving.
 * Has disposition to solve problems. 
+* Avoids solving the same problem twice.
 
-## Related Topics
+## Related Traits
+
+* [Client Goals](understanding-client-goals.md)
 
 ## References

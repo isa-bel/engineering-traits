@@ -14,7 +14,7 @@
 * Scrum
 * Kanban
 
-## Related Topics
+## Related Traits
 
 * [Standup](/standup.md)
 * [User Stories](/writing-user-stories.md)
