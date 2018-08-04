@@ -1,4 +1,5 @@
 # Client Goals
+> Business Acumen
 
 * Analyzes the impact of a ticket towards the product goals and client strategy.
 * Cares about understanding the client. What they do, what they care of? Finds new areas of opportunity where they can offer more to the client.
@@ -11,6 +12,14 @@
 * Sees and understands the big picture of the project, the client's goal, what they want to achieve, the business value.
 * Understands the client's goals and uses them to prioritize the work.
 * Understands the project's business objective.
+
+### Client Goals Examples
+
+* Profitability, revenue
+* Productivity
+* Customer Service
+* Growth
+* Marketing, engagement
 
 ## Related Topics
 
