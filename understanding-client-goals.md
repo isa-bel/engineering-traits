@@ -21,8 +21,10 @@
 * Growth
 * Marketing, engagement
 
-## Related Topics
+## Related Traits
 
 * [Requirements Negotiation](/communication-with-stakeholders.md#requirements-negotiation)
+* [Solve Problems](/solve-problems.md)
+* [Writing User Stories](/writing-user-stories.md)
 
 ## References

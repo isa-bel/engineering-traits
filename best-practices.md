@@ -25,10 +25,11 @@
 * Thinks about code maintainability. Writes code that is easy to test, to change, and to understand a year after.
 * Writes clean reusable code. Assumes someone else is going to use it.
 
-## Related Topics
+## Related Traits
 
 * [Code Reviews](/code-reviews.md)
 * [Documentation](/documentation.md)
+* [Testing](/testing.md)
 
 ## References
 

@@ -3,7 +3,7 @@
 * Accepts and gives feedback.
 * Is always looking for a way to improve. Is open to feedback.
 
-## Related Topics
+## Related Traits
 
 * [Code Reviews](/code-reviews.md)
 

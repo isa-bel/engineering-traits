@@ -11,8 +11,9 @@
 * Understands that is healthy to have discussions, but being respectful.
 * Doesn't focus on things that don't matter. Knows that what matters is doing a good job. Explores other ideas if they don't like their current project.
 
-## Related Topics
+## Related Traits
 
 * [Working with a Team](/working-with-a-team.md)
+* [Work Ethic](/work-ethic.md)
 
 ## References

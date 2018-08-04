@@ -9,7 +9,7 @@
 * Knows how to confront the client.
 * Does questions and proposes better solutions based in their own experience.
 
-## Related Topics
+## Related Traits
 
 * [Understanding Client Goals](/understanding-client-goals.md)
 * [Writing User Stories](/writing-user-stories.md)

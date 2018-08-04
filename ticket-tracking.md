@@ -8,9 +8,9 @@ _If it's not in Jira, it doesn't exist!_
 
 <!-- Add an analogy with Amazon package tracking -->
 
-## Related Topics
+## Related Traits
 
 * [Communication with Stakeholders](/communication-with-stakeholders.md)
-* [Testing](/testing.md)
+* [User Stories](/writing-user-stories.md)
 
 ## References

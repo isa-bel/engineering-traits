@@ -8,6 +8,6 @@
 
 * Knows basic technical writing skills.
 
-## Related Topics
+## Related Traits
 
 ## References

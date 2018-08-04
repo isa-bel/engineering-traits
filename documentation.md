@@ -7,7 +7,7 @@
 * Has ownership of the code, including the documentation.
 * Adds guidelines after failures.
 
-## Related Topics
+## Related Traits
 
 * [Development Best Practices](/best-practices.md)
 

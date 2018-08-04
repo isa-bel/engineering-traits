@@ -15,7 +15,7 @@
 
 ## Troubleshooting Non-Local Environments
 
-## Related Topics
+## Related Traits
 
 * [Running Environment](/running-environment.md)
 

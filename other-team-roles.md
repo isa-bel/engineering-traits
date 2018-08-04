@@ -11,7 +11,7 @@ Understands:
 * The QA role inside the team.
 * The UX process.
 
-## Related Topics
+## Related Traits
 
 * [Working with a Team](/working-with-a-team.md)
 * [Learn](/learn.md)

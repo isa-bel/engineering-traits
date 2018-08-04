@@ -8,6 +8,8 @@
 * Has disposition to solve problems. 
 * Avoids solving the same problem twice.
 
-## Related Topics
+## Related Traits
+
+* [Client Goals](understanding-client-goals.md)
 
 ## References

@@ -21,10 +21,9 @@
 
 ## Working with a QA Engineer
 
-## Related Topics
+## Related Traits
 
 * [Refactoring](/best-practices.md#refactoring)
-* [Ticket Tracking](/ticket-tracking.md)
 
 ## References
 
