@@ -14,3 +14,4 @@
 
 * :lock::memo: [Estimations Cheat Sheet](https://docs.google.com/document/d/1ONX72_UW98-zUDdw8vitzSDQi_r0PuSLy4D-8N-dNvE/edit)
 * :clapper: [Agile Estimation](https://www.youtube.com/watch?v=7nTxdl29ePY)
+* :memo: [Let's Play Planning Poker!](https://blog.codinghorror.com/lets-play-planning-poker/)

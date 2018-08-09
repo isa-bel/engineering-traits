@@ -24,7 +24,7 @@
 ## Related Traits
 
 * [Requirements Negotiation](/communication-with-stakeholders.md#requirements-negotiation)
-* [Solve Problems](/solve-problems.md)
+* [Problem Solving](/solve-problems.md)
 * [Writing User Stories](/writing-user-stories.md)
 
 ## References

@@ -31,6 +31,20 @@ We identified them through a series of interviews with engineers and other deliv
 * [Writing User Stories](writing-user-stories.md)
 * [Writing](writing.md)
 
+## References Types
+
+This document uses the following icon prefixes to indicate the type of reference.
+
+| Icon   | Reference Type |
+|--------|----|
+| :memo: | Article |
+| :notebook: | Long article |
+| :book: | Books |
+| :movie_camera: | Slides |
+| :clapper: :video_camera: :film_strip: | Talk | 
+| :speaker: :radio: | Podcast|
+| :lock: | Only for Wizeliners |
+
 ## To Do
 
 - [ ] Finish definition of traits

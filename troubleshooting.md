@@ -20,3 +20,5 @@
 * [Running Environment](/running-environment.md)
 
 ## References
+
+* [The Way of the Java/Debugging](https://en.wikibooks.org/wiki/The_Way_of_the_Java/Debugging)

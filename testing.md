@@ -29,3 +29,5 @@
 
 * :memo: [A guide to unit testing in JavaScrip](https://github.com/mawrkus/js-unit-testing-guide)
 * :memo: [5 Tips for Writing Great Javascript Unit Tests](https://medium.com/@yahelyechieli/5-tips-for-writing-great-javascript-unit-tests-86296ad2d997)
+* :memo: [Good Test / Bad Test](https://blog.codinghorror.com/good-test-bad-test/) [Or](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
+* :notebook: [The Way of Testivus](http://bit.ly/thewayoftestivus)
