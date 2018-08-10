@@ -1,4 +1,4 @@
-# Solve Problems
+# Problem Solving
 
 * Does not only translate the ideas of others to code, but also has initiative to solve problems.
 * Understands that the goal is to solve problems and that technology is one medium.
@@ -10,6 +10,6 @@
 
 ## Related Traits
 
-* [Client Goals](understanding-client-goals.md)
+* [Client Goals](/understanding-client-goals.md)
 
 ## References

@@ -23,3 +23,5 @@ In the standup:
 * [Working with a Team](/working-with-a-team.md)
 
 ## References
+
+* :notebook: [It's Not Just Standing Up: Patterns for Daily Standup Meetings](https://martinfowler.com/articles/itsNotJustStandingUp.html)

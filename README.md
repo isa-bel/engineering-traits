@@ -21,8 +21,8 @@ We identified them through a series of interviews with engineers and other deliv
 * [Giving Presentations](giving-presentations.md)
 * [Learn](learn.md)
 * [Other Team Roles](other-team-roles.md)
+* [Problem Solving](solve-problems.md)
 * [Running Environment](running-environment.md)
-* [Solve Problems](solve-problems.md)
 * [Testing](testing.md)
 * [Ticket Tracking](ticket-tracking.md)
 * [Understanding Client Goals](understanding-client-goals.md)
@@ -30,6 +30,20 @@ We identified them through a series of interviews with engineers and other deliv
 * [Working with a Team](working-with-a-team.md)
 * [Writing User Stories](writing-user-stories.md)
 * [Writing](writing.md)
+
+## References Types
+
+This document uses the following icon prefixes to indicate the type of reference.
+
+| Icon   | Reference Type |
+|--------|----|
+| :memo: | Article |
+| :notebook: | Long article |
+| :book: | Books |
+| :movie_camera: | Slides |
+| :clapper: :video_camera: :film_strip: | Talk | 
+| :speaker: :radio: | Podcast|
+| :lock: | Only for Wizeliners |
 
 ## To Do
 
