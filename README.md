@@ -41,7 +41,7 @@ This document uses the following icon prefixes to indicate the type of reference
 | :movie\_camera: | Slides |
 | :clapper: :video\_camera: :film\_strip: | Talk |
 | :speaker: :radio: | Podcast |
-| :lock: | Only for Wizeliners |
+| 🔒:lock: | Only for Wizeliners |
 
 ## To Do
 
