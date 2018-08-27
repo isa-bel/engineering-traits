@@ -5,6 +5,7 @@
 
 ## Related Traits
 
-* [Troubleshooting](/troubleshooting.md)
+* [Troubleshooting](troubleshooting.md)
 
 ## References
+

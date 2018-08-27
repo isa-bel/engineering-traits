@@ -23,10 +23,10 @@
 
 ## Related Traits
 
-* [Standup](/standup.md)
-* [User Stories](/writing-user-stories.md)
-* [Estimations](/estimations.md)
-* [Communication with Stakeholders](/communication-with-stakeholders.md)
+* [Standup](standup.md)
+* [User Stories](writing-user-stories.md)
+* [Estimations](estimations.md)
+* [Communication with Stakeholders](communication-with-stakeholders.md)
 
 ## References
 
@@ -34,3 +34,4 @@
 * :memo: [History of the Agile Manifesto](http://agilemanifesto.org/history.html)
 * :memo: [Scrum vs. Kanban](https://medium.com/@thorbjorn.sigberg/scrum-vs-kanban-c73dc70e8eef)
 * :notebook: [Agile Software Development](https://www.martinfowler.com/agile.html)
+

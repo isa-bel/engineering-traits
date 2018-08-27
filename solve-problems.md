@@ -10,6 +10,7 @@
 
 ## Related Traits
 
-* [Client Goals](/understanding-client-goals.md)
+* [Client Goals](understanding-client-goals.md)
 
 ## References
+

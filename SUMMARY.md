@@ -1,5 +1,6 @@
-# Table of Contents
+# Table of contents
 
+* [Introduction](README.md)
 * [Agile Development](agile.md)
 * [Code Reviews](code-reviews.md)
 * [Communication with Stakeholders](communication-with-stakeholders.md)
@@ -22,3 +23,4 @@
 * [Working with a Team](working-with-a-team.md)
 * [Writing User Stories](writing-user-stories.md)
 * [Writing](writing.md)
+

@@ -1,12 +1,10 @@
-# Engineering Traits
+# Introduction
 
 _Draft_
 
 This document lists the traits or skills software engineers at Wizeline must develop to be successful.
 
 We identified them through a series of interviews with engineers and other delivery roles.
-
-<!-- Default: Has enough technical abilities to develop the project. -->
 
 * [Agile Development](agile.md)
 * [Code Reviews](code-reviews.md)
@@ -35,18 +33,19 @@ We identified them through a series of interviews with engineers and other deliv
 
 This document uses the following icon prefixes to indicate the type of reference.
 
-| Icon   | Reference Type |
-|--------|----|
+| Icon | Reference Type |
+| :--- | :--- |
 | :memo: | Article |
 | :notebook: | Long article |
 | :book: | Books |
-| :movie_camera: | Slides |
-| :clapper: :video_camera: :film_strip: | Talk | 
-| :speaker: :radio: | Podcast|
+| :movie\_camera: | Slides |
+| :clapper: :video\_camera: :film\_strip: | Talk |
+| :speaker: :radio: | Podcast |
 | :lock: | Only for Wizeliners |
 
 ## To Do
 
-- [ ] Finish definition of traits
-- [ ] Prioritize traits
-- [ ] For each trait, complete description
+* [ ] Finish definition of traits
+* [ ] Prioritize traits
+* [ ] For each trait, complete description
+

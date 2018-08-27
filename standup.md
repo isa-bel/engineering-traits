@@ -1,6 +1,7 @@
 # Daily Standup
 
 Daily standups are part of the [Agile Manifesto Principles](http://agilemanifesto.org/principles.html):
+
 > Business people and developers must work together daily throughout the project.
 
 * Prioritizes the daily standups. The daily communication with the client is more important than running morning errands.
@@ -11,17 +12,18 @@ Daily standups are part of the [Agile Manifesto Principles](http://agilemanifest
 
 In the standup:
 
-- Learns from the problems the others have.
-- Sees if you can help with the problems of others.
-- Shares knowledge to help your daily job.
-- How can we adapt it so that it is valuable for our team? Why is it helpful?
+* Learns from the problems the others have.
+* Sees if you can help with the problems of others.
+* Shares knowledge to help your daily job.
+* How can we adapt it so that it is valuable for our team? Why is it helpful?
 
 ## Related Traits
 
-* [Communication with Stakeholders](/communication-with-stakeholders.md)
-* [Agile Development](/agile.md)
-* [Working with a Team](/working-with-a-team.md)
+* [Communication with Stakeholders](communication-with-stakeholders.md)
+* [Agile Development](agile.md)
+* [Working with a Team](working-with-a-team.md)
 
 ## References
 
 * :notebook: [It's Not Just Standing Up: Patterns for Daily Standup Meetings](https://martinfowler.com/articles/itsNotJustStandingUp.html)
+

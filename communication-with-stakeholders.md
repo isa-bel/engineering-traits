@@ -39,11 +39,11 @@ _Client Communication_
 
 ## Related Traits
 
-* [Understanding Client Goals](/understanding-client-goals.md)
-* [Writing User Stories](/writing-user-stories.md)
-* [Giving Presentations](/giving-presentations.md)
-* [Daily Standup](/standup.md)
-* [Ticket Tracking](/ticket-tracking.md)
+* [Understanding Client Goals](understanding-client-goals.md)
+* [Writing User Stories](writing-user-stories.md)
+* [Giving Presentations](giving-presentations.md)
+* [Daily Standup](standup.md)
+* [Ticket Tracking](ticket-tracking.md)
 
 ## References
 

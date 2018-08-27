@@ -18,8 +18,7 @@ _Internal Communication_
 
 ## Asking for Help
 
-> No one knows everything. No one.  ... Everything is always changing anyway. So as soon as you “know” it, it’s changed. Knowing what to do when you are stuck and at a loss — that’s the most important skill. Being ok with that scary feeling of not knowing, that’s the job.
-> — [@jensimmons](https://twitter.com/jensimmons/status/1022532185826443264)
+> No one knows everything. No one. ... Everything is always changing anyway. So as soon as you “know” it, it’s changed. Knowing what to do when you are stuck and at a loss — that’s the most important skill. Being ok with that scary feeling of not knowing, that’s the job. — [@jensimmons](https://twitter.com/jensimmons/status/1022532185826443264)
 
 * Asks for help to their team.
 * Knows when to ask for help.
@@ -27,10 +26,10 @@ _Internal Communication_
 
 ## Related Traits
 
-* [Other Team Roles](/other-team-roles.md)
-* [Code Reviews](/code-reviews.md)
-* [Standup](/standup.md)
-* [Emotional Intelligence](/emotional-intelligence.md)
+* [Other Team Roles](other-team-roles.md)
+* [Code Reviews](code-reviews.md)
+* [Standup](standup.md)
+* [Emotional Intelligence](emotional-intelligence.md)
 
 ## References
 

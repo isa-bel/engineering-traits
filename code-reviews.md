@@ -1,4 +1,4 @@
-# Pull Requests
+# Code Reviews
 
 ### What is a Pull Request?
 
@@ -22,12 +22,13 @@
 
 ## Related Traits
 
-* [Feedback](/feedback.md)
-* [Working with a Team](/working-with-a-team.md)
-* [Development Best Practices](/best-practices.md)
+* [Feedback](feedback.md)
+* [Working with a Team](working-with-a-team.md)
+* [Development Best Practices](best-practices.md)
 
 ## References
 
-* :memo: [The (written) unwritten guide to pull requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)
+* :memo: [The \(written\) unwritten guide to pull requests](https://www.atlassian.com/blog/git/written-unwritten-guide-pull-requests)
 * :memo: [Better GitHub pull requests ~!](https://medium.com/arnoldclarkdpd/better-github-pull-requests-625dd71e0bea)
 * :memo: [Unlearning toxic behaviors in a code review culture](https://medium.freecodecamp.org/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
+

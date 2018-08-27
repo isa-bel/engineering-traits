@@ -7,6 +7,7 @@
 
 ## Related Traits
 
-* [Emotional Intelligence](/emotional-intelligence.md)
+* [Emotional Intelligence](emotional-intelligence.md)
 
 ## References
+

@@ -13,7 +13,8 @@
 
 ## Related Traits
 
-* [Working with a Team](/working-with-a-team.md)
-* [Work Ethic](/work-ethic.md)
+* [Working with a Team](working-with-a-team.md)
+* [Work Ethic](work-ethic.md)
 
 ## References
+
