@@ -6,14 +6,9 @@
 > _Responding to change_ over following a plan  
 > — [Manifesto for Agile Software Development](http://agilemanifesto.org/)
 
-* Knows the origins of Agile Development and why it is useful.
-* Understands and uses the Agile Development methodology.
-* Understands the Agile Development methodology.
-* Understands the project development methodology.
-
 ## Origins
 
-## How it helps
+## How it helps/Usefulness/Purpose
 
 ## Methodologies
 
@@ -26,7 +21,6 @@
 * [Standup](standup.md)
 * [User Stories](writing-user-stories.md)
 * [Estimations](estimations.md)
-* [Communication with Stakeholders](communication-with-stakeholders.md)
 
 ## References
 

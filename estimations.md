@@ -8,7 +8,7 @@
 
 ## Related Traits
 
-* [Agile Development](agile.md)
+* [User Stories](writing-user-stories.md)
 
 ## References
 

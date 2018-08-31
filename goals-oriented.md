@@ -1,4 +1,4 @@
-# Understanding Client Goals
+# Goals Oriented
 
 > Business Acumen
 
@@ -24,7 +24,7 @@
 
 ## Related Traits
 
-* [Requirements Negotiation](communication-with-stakeholders.md#requirements-negotiation)
+* [Requirements Negotiation](requirements-negotiation.md)
 * [Problem Solving](solve-problems.md)
 * [Writing User Stories](writing-user-stories.md)
 

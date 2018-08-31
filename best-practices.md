@@ -1,7 +1,7 @@
 # Development Best Practices
 
 > ... people who always insist on following “best practices” without understanding why ... \[are\] bad programmers.  
-> [Yi-Jirr Chen, Content Marketing & Operations @ Codementor](https://www.codementor.io/codementorteam/are-you-a-bad-developer-take-this-quiz-to-find-out-9vuepttu8)
+> — [Yi-Jirr Chen, Content Marketing & Operations @ Codementor](https://www.codementor.io/codementorteam/are-you-a-bad-developer-take-this-quiz-to-find-out-9vuepttu8)
 
 * Applies Clean Code practices.
 * Knows and follows up best practices and guidelines.

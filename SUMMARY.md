@@ -1,4 +1,4 @@
-# Table of contents
+# Table of Contents
 
 * [Introduction](README.md)
 * [Agile Development](agile.md)
@@ -12,15 +12,16 @@
 * [Feedback](feedback.md)
 * [Fixing Issues](troubleshooting.md)
 * [Giving Presentations](giving-presentations.md)
+* [Goals Oriented](goals-oriented.md)
 * [Learn](learn.md)
 * [Other Team Roles](other-team-roles.md)
 * [Problem Solving](solve-problems.md)
+* [Requirements Negotiation](requirements-negotiation.md)
+* [Risk Communication](risk-communication.md)
 * [Running Environment](running-environment.md)
 * [Testing](testing.md)
 * [Ticket Tracking](ticket-tracking.md)
-* [Understanding Client Goals](understanding-client-goals.md)
 * [Work Ethic](work-ethic.md)
 * [Working with a Team](working-with-a-team.md)
 * [Writing User Stories](writing-user-stories.md)
 * [Writing](writing.md)
-
