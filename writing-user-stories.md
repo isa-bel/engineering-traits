@@ -6,9 +6,8 @@
 
 ## Related Traits
 
-* [Agile Development](agile.md)
-* [Requirements Negotiation](communication-with-stakeholders.md#requirements-negotiation)
-* [Ticket Tracking](ticket-tracking.md)
+* [Estimations](estimations.md)
+* [Requirements Negotiation](requirements-negotiation.md)
 * [Client Goals](understanding-client-goals.md)
 * [Communication with Stakeholders](communication-with-stakeholders.md)
 
