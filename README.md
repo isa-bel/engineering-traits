@@ -4,7 +4,7 @@ _Draft_
 
 This document lists the traits or skills software engineers at Wizeline must develop to be successful.
 
-We identified them through a [series of interviews](#methodology) with engineers and other delivery roles.
+We identified them through a [series of interviews](methodology.md) with engineers and other delivery roles.
 
 ## Traits
 
@@ -46,6 +46,7 @@ This document uses the following icon prefixes to indicate the type of reference
 | :clapper: :video\_camera: :film\_strip: | Talk |
 | :speaker: :radio: | Podcast |
 | 🔒:lock: | Only for Wizeliners |
+| :money_with_wings: | Paywall |
 
 ## To Do
 
