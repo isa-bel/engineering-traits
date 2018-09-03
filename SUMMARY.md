@@ -25,3 +25,4 @@
 * [Working with a Team](working-with-a-team.md)
 * [Writing User Stories](writing-user-stories.md)
 * [Writing](writing.md)
+* [Methodology](methodology.md)
