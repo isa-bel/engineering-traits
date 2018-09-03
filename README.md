@@ -38,19 +38,19 @@ We identified them through a [series of interviews](methodology.md) with enginee
 This document uses the following icon prefixes to indicate the type of reference.
 
 | Icon | Reference Type |
-| :--- | :--- |
-| :memo: | Article |
-| :notebook: | Long article |
-| :book: | Books |
-| :movie\_camera: | Slides |
-| :clapper: :video\_camera: :film\_strip: | Talk |
-| :speaker: :radio: | Podcast |
-| 🔒:lock: | Only for Wizeliners |
-| :money_with_wings: | Paywall |
+| :--- | :------------- |
+|  📝  | Article        |
+|  📓  | Long article   |
+|  📖  | Books          |
+|  🎞  | Slides         |
+|  🎬🎦  | Talk           |
+|  🔈  | Podcast        |
+|  🔒  | Only for Wizeliners |
+|  💸  | Paywall        |
 
 ## To Do
 
-* [ ] Finish definition of traits
-* [ ] Prioritize traits
-* [ ] For each trait, complete description
+* [x] Finish definition of traits
+* [ ] Prioritize traits (In Progress)
+* [ ] For each trait, complete description (In Progress)
 

@@ -54,12 +54,12 @@ Code should be readable to computers and other engineers. Giving meaningful name
 
 ## References
 
-* :memo: [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22)
-* :memo: [The Lava Layer Anti-Pattern](https://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html)
-* :book: [Design Patterns](https://en.wikipedia.org/wiki/Book:Design_Patterns)
-* :memo: [Why naming things is hard - Peter Hilton](http://hilton.org.uk/blog/why-naming-things-is-hard)
-* :clapper: [ITT 2016 - Seven Ineffective Coding Habits of Many Programmers](https://youtu.be/ZsHMHukIlJY?t=1420) by Kevlin Henney
-* :clapper: [WtD 2017 - Even Naming This Talk Is Hard](https://www.youtube.com/watch?v=RFfpkrbkvxc) by Ruthie BenDor
-* :notebook: [Airbnb JavaScript Style Guide - Naming Conventions](https://github.com/airbnb/javascript#naming-conventions)
-* :notebook: [Google JavaScript Style Guide - Naming](https://google.github.io/styleguide/javascriptguide.xml?showone=Naming#Naming)
+* 📝 [Hype Driven Development](https://blog.daftcode.pl/hype-driven-development-3469fc2e9b22)
+* 📝 [The Lava Layer Anti-Pattern](https://mikehadlow.blogspot.com/2014/12/the-lava-layer-anti-pattern.html)
+* 📖 [Design Patterns](https://en.wikipedia.org/wiki/Book:Design_Patterns)
+* 📝 [Why naming things is hard - Peter Hilton](http://hilton.org.uk/blog/why-naming-things-is-hard)
+* 🎬 [ITT 2016 - Seven Ineffective Coding Habits of Many Programmers](https://youtu.be/ZsHMHukIlJY?t=1420) by Kevlin Henney
+* 🎬 [WtD 2017 - Even Naming This Talk Is Hard](https://www.youtube.com/watch?v=RFfpkrbkvxc) by Ruthie BenDor
+* 📓 [Airbnb JavaScript Style Guide - Naming Conventions](https://github.com/airbnb/javascript#naming-conventions)
+* 📓 [Google JavaScript Style Guide - Naming](https://google.github.io/styleguide/javascriptguide.xml?showone=Naming#Naming)
 
