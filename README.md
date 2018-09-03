@@ -4,7 +4,9 @@ _Draft_
 
 This document lists the traits or skills software engineers at Wizeline must develop to be successful.
 
-We identified them through a series of interviews with engineers and other delivery roles.
+We identified them through a [series of interviews](#methodology) with engineers and other delivery roles.
+
+## Traits
 
 * [Agile Development](agile.md)
 * [Code Reviews](code-reviews.md)
