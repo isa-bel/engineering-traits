@@ -24,8 +24,8 @@
 
 ## References
 
-* :memo: [Manifesto for Agile Software Development](http://agilemanifesto.org/principles.html)
-* :memo: [History of the Agile Manifesto](http://agilemanifesto.org/history.html)
-* :memo: [Scrum vs. Kanban](https://medium.com/@thorbjorn.sigberg/scrum-vs-kanban-c73dc70e8eef)
-* :notebook: [Agile Software Development](https://www.martinfowler.com/agile.html)
+* 📝 [Manifesto for Agile Software Development](http://agilemanifesto.org/principles.html)
+* 📝 [History of the Agile Manifesto](http://agilemanifesto.org/history.html)
+* 📝 [Scrum vs. Kanban](https://medium.com/@thorbjorn.sigberg/scrum-vs-kanban-c73dc70e8eef)
+* 📓 [Agile Software Development](https://www.martinfowler.com/agile.html)
 
