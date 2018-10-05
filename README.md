@@ -26,7 +26,7 @@ We identified them through a [series of interviews](methodology.md) with enginee
 * [Requirements Negotiation](requirements-negotiation.md)
 * [Risk Communication](risk-communication.md)
 * [Running Environment](running-environment.md)
-* [Team Work](working-with-a-team.md)
+* [Team Work](team-work.md)
 * [Testing](testing.md)
 * [Ticket Tracking](ticket-tracking.md)
 * [Work Ethic](work-ethic.md)

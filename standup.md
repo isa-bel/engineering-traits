@@ -21,7 +21,7 @@ In the standup:
 
 * [Communication with Stakeholders](communication-with-stakeholders.md)
 * [Agile Development](agile.md)
-* [Working with a Team](working-with-a-team.md)
+* [Team Work](team-work.md)
 
 ## References
 

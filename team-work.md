@@ -1,18 +1,24 @@
-# Working with a Team
+# Team Work
 
-* Adapts to the different development workflows, code styles, and conventions of a team.
-* Adapts to the way of the team gives feedback.
-* Doesn't isolate yourself, don't be entitled.
-* Respects their team and their work.
+
+## Building a Team
+
+
+## Joining a New Team
+
+* Adapt to the different development workflows, code styles, and conventions of a team.
+* Adapt to the way of the team gives feedback.
+* Don't isolate yourself, don't be entitled.
+* Respect your team and their work.
 
 ## Communicating with the Team
 
 _Internal Communication_
 
-* Fosters open and effective internal communication.
-* Discusses technical things among the team and respects the technical decisions of other team members.
-* Communicates between different parts of the team such as QA, UX, TW, Backend, Frontend, etc.
-* Shares problems and ideas without fear of retaliation.
+* Foster open and effective internal communication.
+* Discuss technical things among the team and respects the technical decisions of other team members.
+* Communicate between different parts of the team such as QA, UX, TW, Backend, Frontend, etc.
+* Share problems and ideas without fear of retaliation.
 * Can explain their ideas and defend them with good arguments.
 * Is willing to communicate and listen to other team members.
 

@@ -13,7 +13,7 @@ Understands:
 
 ## Related Traits
 
-* [Working with a Team](working-with-a-team.md)
+* [Team Work](team-work.md)
 * [Learn](learn.md)
 
 ## References

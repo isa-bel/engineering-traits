@@ -23,7 +23,7 @@
 ## Related Traits
 
 * [Feedback](feedback.md)
-* [Working with a Team](working-with-a-team.md)
+* [Team Work](team-work.md)
 * [Development Best Practices](best-practices.md)
 
 ## References
