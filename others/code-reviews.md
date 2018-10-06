@@ -22,9 +22,9 @@
 
 ## Related Traits
 
-* [Feedback](feedback.md)
-* [Working with a Team](working-with-a-team.md)
-* [Development Best Practices](best-practices.md)
+* [Feedback](../topten/feedback.md)
+* [Development Best Practices](../topten/best-practices.md)
+* [Team Work](../topten/team-work.md)
 
 ## References
 

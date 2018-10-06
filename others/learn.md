@@ -8,7 +8,7 @@
 
 ## Related Traits
 
-* [Other Team Roles](other-team-roles.md)
+* [Other Team Roles](../topten/other-team-roles.md)
 
 ## References
 

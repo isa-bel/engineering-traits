@@ -48,9 +48,9 @@ Code should be readable to computers and other engineers. Giving meaningful name
 
 ## Related Traits
 
-* [Code Reviews](code-reviews.md)
-* [Documentation](documentation.md)
-* [Testing](testing.md)
+* [Code Reviews](../others/code-reviews.md)
+* [Documentation](../others/documentation.md)
+* [Testing](../others/testing.md)
 
 ## References
 

@@ -10,8 +10,8 @@
 ## Related Traits
 
 * [Daily Standup](standup.md)
+* [Communication with Stakeholders](../topten/communication-with-stakeholders.md)
 * [Ticket Tracking](ticket-tracking.md)
-* [Communication with Stakeholders](communication-with-stakeholders.md)
 
 ## References
 

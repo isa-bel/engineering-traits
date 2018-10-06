@@ -14,11 +14,11 @@ _Client Communication_
 
 ## Related Traits
 
-* [Giving Presentations](giving-presentations.md)
-* [Daily Standup](standup.md)
-* [Ticket Tracking](ticket-tracking.md)
-* [Risk Communication](risk-communication.md)
+* [Daily Standup](../others/standup.md)
+* [Giving Presentations](../others/giving-presentations.md)
 * [Requirements Negotiation](requirements-negotiation.md)
+* [Risk Communication](../others/risk-communication.md)
+* [Ticket Tracking](../others/ticket-tracking.md)
 
 ## References
 

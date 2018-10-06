@@ -19,9 +19,9 @@ In the standup:
 
 ## Related Traits
 
-* [Communication with Stakeholders](communication-with-stakeholders.md)
 * [Agile Development](agile.md)
-* [Working with a Team](working-with-a-team.md)
+* [Communication with Stakeholders](../topten/communication-with-stakeholders.md)
+* [Team Work](../topten/team-work.md)
 
 ## References
 
