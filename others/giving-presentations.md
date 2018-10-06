@@ -6,7 +6,7 @@
 
 ## Related Traits
 
-* [Communication with Stakeholders](communication-with-stakeholders.md)
+* [Communication with Stakeholders](../topten/communication-with-stakeholders.md)
 
 ## References
 

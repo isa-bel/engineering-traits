@@ -13,8 +13,8 @@ Understands:
 
 ## Related Traits
 
+* [Learn](../others/learn.md)
 * [Team Work](team-work.md)
-* [Learn](learn.md)
 
 ## References
 

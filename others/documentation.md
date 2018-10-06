@@ -9,7 +9,7 @@
 
 ## Related Traits
 
-* [Development Best Practices](best-practices.md)
+* [Development Best Practices](../topten/best-practices.md)
 
 ## References
 

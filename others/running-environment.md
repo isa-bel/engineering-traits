@@ -5,7 +5,7 @@
 
 ## Related Traits
 
-* [Troubleshooting](troubleshooting.md)
+* [Fixing Issues](fixing-issues.md)
 
 ## References
 

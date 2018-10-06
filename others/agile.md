@@ -18,9 +18,9 @@
 
 ## Related Traits
 
+* [Estimations](estimations.md)
 * [Standup](standup.md)
 * [User Stories](writing-user-stories.md)
-* [Estimations](estimations.md)
 
 ## References
 

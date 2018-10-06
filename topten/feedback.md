@@ -5,7 +5,7 @@
 
 ## Related Traits
 
-* [Code Reviews](code-reviews.md)
+* [Code Reviews](../others/code-reviews.md)
 
 ## References
 

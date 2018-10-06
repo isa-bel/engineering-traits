@@ -7,9 +7,9 @@
 ## Related Traits
 
 * [Estimations](estimations.md)
-* [Requirements Negotiation](requirements-negotiation.md)
-* [Client Goals](understanding-client-goals.md)
-* [Communication with Stakeholders](communication-with-stakeholders.md)
+* [Goals Oriented](../topten/goals-oriented.md)
+* [Communication with Stakeholders](../topten/communication-with-stakeholders.md)
+* [Requirements Negotiation](../topten/requirements-negotiation.md)
 
 ## References
 

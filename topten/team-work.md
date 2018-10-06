@@ -33,10 +33,10 @@ _Internal Communication_
 
 ## Related Traits
 
-* [Other Team Roles](other-team-roles.md)
-* [Code Reviews](code-reviews.md)
-* [Standup](standup.md)
+* [Code Reviews](../others/code-reviews.md)
 * [Emotional Intelligence](emotional-intelligence.md)
+* [Other Team Roles](other-team-roles.md)
+* [Standup](../others/standup.md)
 
 ## References
 

@@ -13,8 +13,8 @@
 
 ## Related Traits
 
-* [Understanding Client Goals](understanding-client-goals.md)
-* [Writing User Stories](writing-user-stories.md)
+* [Goals Oriented](goals-oriented.md)
+* [Writing User Stories](../others/writing-user-stories.md)
 
 ## References
 

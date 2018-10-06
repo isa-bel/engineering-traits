@@ -8,7 +8,7 @@ _If it's not in Jira, it doesn't exist!_
 
 ## Related Traits
 
-* [Communication with Stakeholders](communication-with-stakeholders.md)
+* [Communication with Stakeholders](../topten/communication-with-stakeholders.md)
 * [User Stories](writing-user-stories.md)
 
 ## References

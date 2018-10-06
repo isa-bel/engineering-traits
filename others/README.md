@@ -1,0 +1,16 @@
+# Other Engineering Traits
+
+* [Testing](testing.md)
+* [Learn](learn.md)
+* [Agile Development](agile.md)
+* [Estimations](estimations.md)
+* [Code Reviews](code-reviews.md)
+* [Risk Communication](risk-communication.md)
+* [Daily Standup](standup.md)
+* [Fixing Issues](fixing-issues.md)
+* [Documentation](documentation.md)
+* [Writing User Stories](writing-user-stories.md)
+* [Running Environment](running-environment.md)
+* [Giving Presentations](giving-presentations.md)
+* [Writing](writing.md)
+* [Ticket Tracking](ticket-tracking.md)

@@ -206,4 +206,38 @@ The following answers complete this phrase:
 
 ## Prioritization
 
-To prioritize the traits, we used a Card Sorting exercise based in the ideas of [this article](https://blog.optimalworkshop.com/andy-using-optimalsort-prioritize-product-improvements). 
+To prioritize the traits, we used a Card Sorting exercise based in the ideas of [this article](https://blog.optimalworkshop.com/andy-using-optimalsort-prioritize-product-improvements).
+
+As in the article, we calculated the _weighted priority_ with the following formula:
+
+    WP = 4 * times placed in “Most important” + 2 * times placed in “Very important” + times placed in “Important”
+
+### Prioritization Results
+
+| Trait                      |+++|++ | +  | **WP** |
+|----------------------------|--:|--:|---:|-------:|
+| Team Work                  | 8 | 6 |  0 | **44** |
+| Goals Oriented             | 7 | 3 |  2 | **36** |
+| Problem Solving            | 5 | 5 |  3 | **33** |
+| Work Ethic                 | 5 | 4 |  4 | **32** |
+| Development Best Practices | 4 | 7 |  2 | **32** |
+| Emotional Intelligence     | 5 | 1 |  8 | **30** |
+| Feedback                   | 4 | 4 |  5 | **29** |
+| Client Communication       | 3 | 3 |  8 | **26** |
+| Requirements Negotiation   | 3 | 3 |  6 | **24** |
+| Working with Other Roles   | 3 | 2 |  7 | **23** |
+|                            |   |   |    |        |
+| Testing                    | 1 | 7 |  5 | **23** |
+| Learning                   | 1 | 5 |  7 | **21** |
+| Agile Development          | 1 | 4 |  7 | **19** |
+| Estimations                | 1 | 3 |  9 | **19** |
+| Code Review                | 0 | 6 |  7 | **19** |
+| Risk Communication         | 1 | 3 |  8 | **18** |
+| Daily Standup              | 1 | 2 |  9 | **17** |
+| Fixing Issues              | 0 | 4 |  7 | **15** |
+| Documentation              | 0 | 2 | 11 | **15** |
+| User Stories               | 0 | 3 |  8 | **14** |
+| Running Environment        | 0 | 3 |  7 | **13** |
+| Giving Presentations       | 0 | 2 |  9 | **13** |
+| Writing                    | 0 | 1 | 10 | **12** |
+| Ticket Tracking            | 0 | 1 |  9 | **11** |
