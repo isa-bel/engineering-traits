@@ -28,4 +28,4 @@
 * 📝 [History of the Agile Manifesto](http://agilemanifesto.org/history.html)
 * 📝 [Scrum vs. Kanban](https://medium.com/@thorbjorn.sigberg/scrum-vs-kanban-c73dc70e8eef)
 * 📓 [Agile Software Development](https://www.martinfowler.com/agile.html)
-
+* 🔈 [Learning from "You Don't Need Standup"](https://soundcloud.com/troubleshootingagile/title-learning-from-you-dont-need-standup)

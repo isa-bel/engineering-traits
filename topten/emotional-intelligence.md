@@ -13,8 +13,11 @@
 
 ## Related Traits
 
+* [Code Reviews](../others/code-reviews.md)
+* [Other Team Roles](other-team-roles.md)
 * [Team Work](team-work.md)
 * [Work Ethic](work-ethic.md)
 
 ## References
 
+* 🎬 [Emotional Intelligence for Engineers - April Wensel - ngAtlanta 2018](https://www.youtube.com/watch?v=SJnVhkEx8Cs)
